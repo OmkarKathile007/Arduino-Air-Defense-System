@@ -11,4 +11,4 @@
 - *Processing (optional)* for visual display
 - Jumper wires
 - Breadboard
-- USB cable for power and data transfer
+- USB cable for power and data transfer.
